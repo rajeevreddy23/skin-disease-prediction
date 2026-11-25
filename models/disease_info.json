@@ -1,0 +1,108 @@
+{
+  "akiec": {
+    "name": "Actinic Keratosis / Intraepithelial Carcinoma",
+    "short_name": "Actinic Keratosis",
+    "type": "Pre-cancerous / In-situ Carcinoma",
+    "risk_level": "Moderate Risk (Pre-cancerous)",
+    "risk_color": "#f59e0b",
+    "description": "Actinic keratoses (AK) are rough, scaly patches on sun-exposed areas of the skin (such as the face, scalp, and hands) caused by cumulative ultraviolet radiation damage. If left untreated, a subset can develop into invasive squamous cell carcinoma (SCC).",
+    "symptoms": [
+      "Rough, dry, sandpaper-like or scaly patch on sun-exposed skin",
+      "Flat to slightly raised bump, often with a pink, red, or brownish hue",
+      "Occasional itching, burning, or tenderness",
+      "Hard, wart-like surface or cutaneous horn formation"
+    ],
+    "consultation_advice": "Consult a certified dermatologist promptly. While many AKs remain benign, clinical dermatoscopy and treatment (such as cryotherapy, topical 5-FU, imiquimod, or photodynamic therapy) are recommended to prevent progression to malignant carcinoma."
+  },
+  "bcc": {
+    "name": "Basal Cell Carcinoma",
+    "short_name": "Basal Cell Carcinoma",
+    "type": "Malignant Skin Cancer (Non-Melanoma)",
+    "risk_level": "High Risk (Malignant)",
+    "risk_color": "#ef4444",
+    "description": "Basal cell carcinoma is the most common form of skin cancer globally, originating in the basal cells of the deepest epidermis layer. While BCC rarely metastasizes to distant organs, it is locally invasive and destructive to surrounding tissue, cartilage, and bone if left untreated.",
+    "symptoms": [
+      "Pearly, translucent, or waxy bump with rolled borders",
+      "Visible tiny blood vessels (telangiectasia) on the surface",
+      "Open sore that oozes, bleeds easily, or crusts and remains open for weeks",
+      "Flat, firm, pale or yellow scar-like area with indistinct edges"
+    ],
+    "consultation_advice": "Urgent dermatological evaluation is required. Standard treatment involves surgical excision, Mohs micrographic surgery, curettage and electrodesiccation, or radiation therapy depending on lesion location and histological subtype."
+  },
+  "bkl": {
+    "name": "Benign Keratosis-like Lesions",
+    "short_name": "Benign Keratosis",
+    "type": "Benign Epidermal Tumor",
+    "risk_level": "Low Risk (Benign)",
+    "risk_color": "#10b981",
+    "description": "Benign keratosis includes seborrheic keratoses, solar lentigines (sun spots), and lichen-planus like keratoses (LPLK). These are harmless non-cancerous growths arising from epidermal keratinocytes, commonly observed in older adults.",
+    "symptoms": [
+      "Waxy, stuck-on or glued-on appearance on the skin surface",
+      "Round to oval shape with well-defined borders",
+      "Color ranging from tan, light brown to dark brown or black",
+      "Slightly elevated or velvety texture, typically asymptomatic"
+    ],
+    "consultation_advice": "Generally requires no medical treatment unless symptomatic, irritated by clothing, or cosmetically concerning. However, any rapidly changing, bleeding, or irregular lesion should still be clinically evaluated by a dermatologist to definitively rule out melanoma."
+  },
+  "df": {
+    "name": "Dermatofibroma",
+    "short_name": "Dermatofibroma",
+    "type": "Benign Fibrous Histiocytoma",
+    "risk_level": "Low Risk (Benign)",
+    "risk_color": "#10b981",
+    "description": "Dermatofibroma is a very common benign cutaneous nodule consisting of proliferated fibroblasts and histiocytes, often arising in response to minor trauma, insect bites, or folliculitis, most frequently on the lower extremities.",
+    "symptoms": [
+      "Firm, button-like nodule beneath the skin, typically 3-10 mm in diameter",
+      "Color ranges from pink, red, to brownish-tan or hyperpigmented",
+      "Classic 'dimple sign' (pinching the lesion causes it to tether and dimple downward)",
+      "Usually painless, though occasionally mildly tender or pruritic"
+    ],
+    "consultation_advice": "Harmless and usually requires no intervention. If uncomfortable, bleeding, rapidly growing, or subject to chronic trauma, surgical excision or punch removal can be performed by a medical professional."
+  },
+  "mel": {
+    "name": "Melanoma",
+    "short_name": "Melanoma",
+    "type": "Malignant Skin Cancer (High Metastatic Potential)",
+    "risk_level": "Critical Risk (Malignant)",
+    "risk_color": "#dc2626",
+    "description": "Melanoma is the most aggressive and life-threatening form of skin cancer, arising from pigment-producing melanocytes. Early detection is paramount: localized melanoma has a 5-year survival rate above 99%, while metastatic melanoma carries significant mortality.",
+    "symptoms": [
+      "Asymmetry: One half of the lesion does not match the other",
+      "Border irregularity: Scalloped, notched, blurred, or poorly defined edges",
+      "Color variation: Shades of brown, black, blue, pink, red, or white within the same lesion",
+      "Diameter: Greater than 6 mm (pencil eraser size), though early melanomas can be smaller",
+      "Evolving: Any change in size, shape, elevation, color, or new symptom like bleeding/itching (ABCDE criteria)"
+    ],
+    "consultation_advice": "IMMEDIATE dermatological consultation is critical! Do not delay. Suspected melanomas require prompt dermatoscopy and diagnostic full-thickness excisional biopsy with histological assessment to determine Breslow depth and staging."
+  },
+  "nv": {
+    "name": "Melanocytic Nevus",
+    "short_name": "Melanocytic Nevi (Common Mole)",
+    "type": "Benign Melanocytic Proliferation",
+    "risk_level": "Low Risk (Benign)",
+    "risk_color": "#10b981",
+    "description": "Melanocytic nevi are common benign proliferations of melanocytes (pigment cells). Most individuals have between 10 to 40 moles, which appear during childhood and early adulthood and typically remain stable throughout life.",
+    "symptoms": [
+      "Uniform light to dark brown or flesh-colored papule or macule",
+      "Symmetrical round or oval shape with sharp, even borders",
+      "Usually under 6 mm in diameter",
+      "Stable appearance over months and years without sudden changes"
+    ],
+    "consultation_advice": "Normal moles are harmless and require no treatment. Routine self-examination using the ABCDE criteria is advised. If a mole changes size, shape, color, bleeds, or becomes asymmetrical, have it examined by a dermatologist."
+  },
+  "vasc": {
+    "name": "Vascular Lesions",
+    "short_name": "Vascular Lesion",
+    "type": "Benign Vascular Malformation / Proliferation",
+    "risk_level": "Low Risk (Benign)",
+    "risk_color": "#10b981",
+    "description": "Vascular lesions encompass cherry angiomas, hemangiomas, pyogenic granulomas, and vascular malformations. These are proliferations of blood vessels or capillaries within the dermis, presenting with distinctive red, violet, or purple pigmentation.",
+    "symptoms": [
+      "Bright cherry-red, purple, or violaceous papule or macule",
+      "Blanches (lightens temporarily) upon gentle direct pressure (diascopy)",
+      "Smooth, domed, or slightly lobulated surface",
+      "May bleed profusely if scratched, bumped, or traumatized"
+    ],
+    "consultation_advice": "Most vascular lesions are benign and require no treatment. If bleeding occurs frequently, causes cosmetic distress, or if a pyogenic granuloma develops rapidly, laser therapy, electrocautery, or minor surgical excision can be carried out by a physician."
+  }
+}

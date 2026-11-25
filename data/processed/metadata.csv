@@ -1,0 +1,491 @@
+image_id,dx,dx_type,age,sex,localization,file_path,split
+ISIC_akiec_0000,akiec,follow_up,75,male,trunk,data\processed\images\ISIC_akiec_0000.jpg,train
+ISIC_akiec_0001,akiec,follow_up,25,female,upper extremity,data\processed\images\ISIC_akiec_0001.jpg,test
+ISIC_akiec_0002,akiec,histo,25,male,chest,data\processed\images\ISIC_akiec_0002.jpg,val
+ISIC_akiec_0003,akiec,consensus,65,female,back,data\processed\images\ISIC_akiec_0003.jpg,train
+ISIC_akiec_0004,akiec,histo,45,female,chest,data\processed\images\ISIC_akiec_0004.jpg,train
+ISIC_akiec_0005,akiec,follow_up,25,female,upper extremity,data\processed\images\ISIC_akiec_0005.jpg,train
+ISIC_akiec_0006,akiec,follow_up,35,female,lower extremity,data\processed\images\ISIC_akiec_0006.jpg,train
+ISIC_akiec_0007,akiec,histo,45,female,upper extremity,data\processed\images\ISIC_akiec_0007.jpg,train
+ISIC_akiec_0008,akiec,consensus,25,male,trunk,data\processed\images\ISIC_akiec_0008.jpg,train
+ISIC_akiec_0009,akiec,follow_up,25,male,abdomen,data\processed\images\ISIC_akiec_0009.jpg,train
+ISIC_akiec_0010,akiec,histo,55,male,neck,data\processed\images\ISIC_akiec_0010.jpg,train
+ISIC_akiec_0011,akiec,consensus,25,male,chest,data\processed\images\ISIC_akiec_0011.jpg,val
+ISIC_akiec_0012,akiec,follow_up,55,female,chest,data\processed\images\ISIC_akiec_0012.jpg,train
+ISIC_akiec_0013,akiec,confocal,25,male,neck,data\processed\images\ISIC_akiec_0013.jpg,train
+ISIC_akiec_0014,akiec,histo,65,male,abdomen,data\processed\images\ISIC_akiec_0014.jpg,test
+ISIC_akiec_0015,akiec,follow_up,45,female,trunk,data\processed\images\ISIC_akiec_0015.jpg,train
+ISIC_akiec_0016,akiec,consensus,25,female,lower extremity,data\processed\images\ISIC_akiec_0016.jpg,train
+ISIC_akiec_0017,akiec,follow_up,45,female,chest,data\processed\images\ISIC_akiec_0017.jpg,train
+ISIC_akiec_0018,akiec,consensus,65,male,trunk,data\processed\images\ISIC_akiec_0018.jpg,train
+ISIC_akiec_0019,akiec,consensus,55,female,face,data\processed\images\ISIC_akiec_0019.jpg,train
+ISIC_akiec_0020,akiec,follow_up,55,male,lower extremity,data\processed\images\ISIC_akiec_0020.jpg,val
+ISIC_akiec_0021,akiec,consensus,65,male,trunk,data\processed\images\ISIC_akiec_0021.jpg,test
+ISIC_akiec_0022,akiec,consensus,35,male,chest,data\processed\images\ISIC_akiec_0022.jpg,train
+ISIC_akiec_0023,akiec,follow_up,75,male,trunk,data\processed\images\ISIC_akiec_0023.jpg,val
+ISIC_akiec_0024,akiec,consensus,55,female,upper extremity,data\processed\images\ISIC_akiec_0024.jpg,val
+ISIC_akiec_0025,akiec,follow_up,75,female,face,data\processed\images\ISIC_akiec_0025.jpg,train
+ISIC_akiec_0026,akiec,confocal,55,female,chest,data\processed\images\ISIC_akiec_0026.jpg,train
+ISIC_akiec_0027,akiec,follow_up,45,female,chest,data\processed\images\ISIC_akiec_0027.jpg,train
+ISIC_akiec_0028,akiec,histo,65,male,trunk,data\processed\images\ISIC_akiec_0028.jpg,train
+ISIC_akiec_0029,akiec,consensus,45,female,lower extremity,data\processed\images\ISIC_akiec_0029.jpg,val
+ISIC_akiec_0030,akiec,histo,45,female,chest,data\processed\images\ISIC_akiec_0030.jpg,train
+ISIC_akiec_0031,akiec,consensus,55,female,trunk,data\processed\images\ISIC_akiec_0031.jpg,train
+ISIC_akiec_0032,akiec,consensus,65,female,lower extremity,data\processed\images\ISIC_akiec_0032.jpg,val
+ISIC_akiec_0033,akiec,follow_up,45,male,neck,data\processed\images\ISIC_akiec_0033.jpg,train
+ISIC_akiec_0034,akiec,consensus,35,female,abdomen,data\processed\images\ISIC_akiec_0034.jpg,train
+ISIC_akiec_0035,akiec,histo,65,female,upper extremity,data\processed\images\ISIC_akiec_0035.jpg,train
+ISIC_akiec_0036,akiec,consensus,25,female,back,data\processed\images\ISIC_akiec_0036.jpg,train
+ISIC_akiec_0037,akiec,confocal,45,female,upper extremity,data\processed\images\ISIC_akiec_0037.jpg,test
+ISIC_akiec_0038,akiec,consensus,75,male,upper extremity,data\processed\images\ISIC_akiec_0038.jpg,train
+ISIC_akiec_0039,akiec,follow_up,35,male,upper extremity,data\processed\images\ISIC_akiec_0039.jpg,train
+ISIC_akiec_0040,akiec,consensus,25,female,trunk,data\processed\images\ISIC_akiec_0040.jpg,train
+ISIC_akiec_0041,akiec,confocal,25,female,chest,data\processed\images\ISIC_akiec_0041.jpg,train
+ISIC_akiec_0042,akiec,confocal,65,female,lower extremity,data\processed\images\ISIC_akiec_0042.jpg,train
+ISIC_akiec_0043,akiec,histo,65,female,lower extremity,data\processed\images\ISIC_akiec_0043.jpg,val
+ISIC_akiec_0044,akiec,confocal,45,female,chest,data\processed\images\ISIC_akiec_0044.jpg,train
+ISIC_akiec_0045,akiec,confocal,55,female,neck,data\processed\images\ISIC_akiec_0045.jpg,train
+ISIC_akiec_0046,akiec,confocal,75,female,trunk,data\processed\images\ISIC_akiec_0046.jpg,train
+ISIC_akiec_0047,akiec,histo,35,male,trunk,data\processed\images\ISIC_akiec_0047.jpg,train
+ISIC_akiec_0048,akiec,confocal,75,male,lower extremity,data\processed\images\ISIC_akiec_0048.jpg,test
+ISIC_akiec_0049,akiec,consensus,75,male,upper extremity,data\processed\images\ISIC_akiec_0049.jpg,train
+ISIC_akiec_0050,akiec,confocal,35,male,trunk,data\processed\images\ISIC_akiec_0050.jpg,train
+ISIC_akiec_0051,akiec,confocal,65,male,abdomen,data\processed\images\ISIC_akiec_0051.jpg,test
+ISIC_akiec_0052,akiec,consensus,25,female,lower extremity,data\processed\images\ISIC_akiec_0052.jpg,test
+ISIC_akiec_0053,akiec,follow_up,35,female,chest,data\processed\images\ISIC_akiec_0053.jpg,train
+ISIC_akiec_0054,akiec,confocal,55,female,lower extremity,data\processed\images\ISIC_akiec_0054.jpg,train
+ISIC_akiec_0055,akiec,confocal,55,female,lower extremity,data\processed\images\ISIC_akiec_0055.jpg,train
+ISIC_akiec_0056,akiec,consensus,65,male,back,data\processed\images\ISIC_akiec_0056.jpg,train
+ISIC_akiec_0057,akiec,follow_up,45,male,abdomen,data\processed\images\ISIC_akiec_0057.jpg,train
+ISIC_akiec_0058,akiec,consensus,75,male,lower extremity,data\processed\images\ISIC_akiec_0058.jpg,train
+ISIC_akiec_0059,akiec,consensus,75,female,chest,data\processed\images\ISIC_akiec_0059.jpg,val
+ISIC_akiec_0060,akiec,follow_up,75,female,chest,data\processed\images\ISIC_akiec_0060.jpg,val
+ISIC_akiec_0061,akiec,follow_up,35,female,back,data\processed\images\ISIC_akiec_0061.jpg,test
+ISIC_akiec_0062,akiec,consensus,25,female,upper extremity,data\processed\images\ISIC_akiec_0062.jpg,train
+ISIC_akiec_0063,akiec,follow_up,75,female,lower extremity,data\processed\images\ISIC_akiec_0063.jpg,test
+ISIC_akiec_0064,akiec,histo,75,male,abdomen,data\processed\images\ISIC_akiec_0064.jpg,train
+ISIC_akiec_0065,akiec,confocal,65,male,back,data\processed\images\ISIC_akiec_0065.jpg,val
+ISIC_akiec_0066,akiec,follow_up,45,female,trunk,data\processed\images\ISIC_akiec_0066.jpg,test
+ISIC_akiec_0067,akiec,confocal,65,female,face,data\processed\images\ISIC_akiec_0067.jpg,train
+ISIC_akiec_0068,akiec,consensus,25,female,abdomen,data\processed\images\ISIC_akiec_0068.jpg,train
+ISIC_akiec_0069,akiec,histo,65,male,lower extremity,data\processed\images\ISIC_akiec_0069.jpg,train
+ISIC_bcc_0000,bcc,consensus,25,male,upper extremity,data\processed\images\ISIC_bcc_0000.jpg,test
+ISIC_bcc_0001,bcc,confocal,75,male,abdomen,data\processed\images\ISIC_bcc_0001.jpg,train
+ISIC_bcc_0002,bcc,consensus,25,female,back,data\processed\images\ISIC_bcc_0002.jpg,train
+ISIC_bcc_0003,bcc,consensus,75,female,face,data\processed\images\ISIC_bcc_0003.jpg,train
+ISIC_bcc_0004,bcc,follow_up,35,female,face,data\processed\images\ISIC_bcc_0004.jpg,train
+ISIC_bcc_0005,bcc,confocal,75,female,face,data\processed\images\ISIC_bcc_0005.jpg,train
+ISIC_bcc_0006,bcc,histo,45,male,abdomen,data\processed\images\ISIC_bcc_0006.jpg,val
+ISIC_bcc_0007,bcc,histo,75,female,trunk,data\processed\images\ISIC_bcc_0007.jpg,train
+ISIC_bcc_0008,bcc,histo,45,male,abdomen,data\processed\images\ISIC_bcc_0008.jpg,test
+ISIC_bcc_0009,bcc,histo,35,female,back,data\processed\images\ISIC_bcc_0009.jpg,train
+ISIC_bcc_0010,bcc,follow_up,75,female,abdomen,data\processed\images\ISIC_bcc_0010.jpg,train
+ISIC_bcc_0011,bcc,confocal,35,male,back,data\processed\images\ISIC_bcc_0011.jpg,train
+ISIC_bcc_0012,bcc,follow_up,25,female,upper extremity,data\processed\images\ISIC_bcc_0012.jpg,train
+ISIC_bcc_0013,bcc,confocal,75,female,trunk,data\processed\images\ISIC_bcc_0013.jpg,train
+ISIC_bcc_0014,bcc,consensus,35,male,lower extremity,data\processed\images\ISIC_bcc_0014.jpg,test
+ISIC_bcc_0015,bcc,confocal,55,male,upper extremity,data\processed\images\ISIC_bcc_0015.jpg,train
+ISIC_bcc_0016,bcc,confocal,35,male,face,data\processed\images\ISIC_bcc_0016.jpg,train
+ISIC_bcc_0017,bcc,consensus,45,male,lower extremity,data\processed\images\ISIC_bcc_0017.jpg,train
+ISIC_bcc_0018,bcc,follow_up,55,female,lower extremity,data\processed\images\ISIC_bcc_0018.jpg,train
+ISIC_bcc_0019,bcc,consensus,45,female,trunk,data\processed\images\ISIC_bcc_0019.jpg,train
+ISIC_bcc_0020,bcc,confocal,65,male,face,data\processed\images\ISIC_bcc_0020.jpg,train
+ISIC_bcc_0021,bcc,histo,55,male,back,data\processed\images\ISIC_bcc_0021.jpg,train
+ISIC_bcc_0022,bcc,confocal,25,female,face,data\processed\images\ISIC_bcc_0022.jpg,train
+ISIC_bcc_0023,bcc,confocal,65,male,chest,data\processed\images\ISIC_bcc_0023.jpg,val
+ISIC_bcc_0024,bcc,follow_up,75,male,abdomen,data\processed\images\ISIC_bcc_0024.jpg,val
+ISIC_bcc_0025,bcc,follow_up,75,male,lower extremity,data\processed\images\ISIC_bcc_0025.jpg,val
+ISIC_bcc_0026,bcc,consensus,55,female,trunk,data\processed\images\ISIC_bcc_0026.jpg,train
+ISIC_bcc_0027,bcc,histo,55,female,trunk,data\processed\images\ISIC_bcc_0027.jpg,train
+ISIC_bcc_0028,bcc,consensus,35,female,lower extremity,data\processed\images\ISIC_bcc_0028.jpg,test
+ISIC_bcc_0029,bcc,histo,65,female,chest,data\processed\images\ISIC_bcc_0029.jpg,train
+ISIC_bcc_0030,bcc,confocal,45,female,upper extremity,data\processed\images\ISIC_bcc_0030.jpg,train
+ISIC_bcc_0031,bcc,follow_up,45,female,lower extremity,data\processed\images\ISIC_bcc_0031.jpg,train
+ISIC_bcc_0032,bcc,consensus,25,female,upper extremity,data\processed\images\ISIC_bcc_0032.jpg,train
+ISIC_bcc_0033,bcc,consensus,35,male,upper extremity,data\processed\images\ISIC_bcc_0033.jpg,train
+ISIC_bcc_0034,bcc,confocal,45,female,face,data\processed\images\ISIC_bcc_0034.jpg,train
+ISIC_bcc_0035,bcc,confocal,25,female,neck,data\processed\images\ISIC_bcc_0035.jpg,train
+ISIC_bcc_0036,bcc,confocal,65,female,lower extremity,data\processed\images\ISIC_bcc_0036.jpg,train
+ISIC_bcc_0037,bcc,histo,35,female,back,data\processed\images\ISIC_bcc_0037.jpg,train
+ISIC_bcc_0038,bcc,histo,75,female,abdomen,data\processed\images\ISIC_bcc_0038.jpg,train
+ISIC_bcc_0039,bcc,follow_up,65,female,neck,data\processed\images\ISIC_bcc_0039.jpg,test
+ISIC_bcc_0040,bcc,consensus,75,male,trunk,data\processed\images\ISIC_bcc_0040.jpg,val
+ISIC_bcc_0041,bcc,consensus,75,female,upper extremity,data\processed\images\ISIC_bcc_0041.jpg,train
+ISIC_bcc_0042,bcc,consensus,65,male,lower extremity,data\processed\images\ISIC_bcc_0042.jpg,train
+ISIC_bcc_0043,bcc,histo,25,female,lower extremity,data\processed\images\ISIC_bcc_0043.jpg,train
+ISIC_bcc_0044,bcc,confocal,55,male,face,data\processed\images\ISIC_bcc_0044.jpg,val
+ISIC_bcc_0045,bcc,follow_up,25,male,upper extremity,data\processed\images\ISIC_bcc_0045.jpg,train
+ISIC_bcc_0046,bcc,histo,65,female,trunk,data\processed\images\ISIC_bcc_0046.jpg,train
+ISIC_bcc_0047,bcc,histo,65,male,lower extremity,data\processed\images\ISIC_bcc_0047.jpg,val
+ISIC_bcc_0048,bcc,consensus,35,male,trunk,data\processed\images\ISIC_bcc_0048.jpg,train
+ISIC_bcc_0049,bcc,confocal,65,male,neck,data\processed\images\ISIC_bcc_0049.jpg,train
+ISIC_bcc_0050,bcc,follow_up,75,female,abdomen,data\processed\images\ISIC_bcc_0050.jpg,train
+ISIC_bcc_0051,bcc,confocal,75,male,upper extremity,data\processed\images\ISIC_bcc_0051.jpg,train
+ISIC_bcc_0052,bcc,histo,35,female,upper extremity,data\processed\images\ISIC_bcc_0052.jpg,test
+ISIC_bcc_0053,bcc,consensus,65,male,face,data\processed\images\ISIC_bcc_0053.jpg,train
+ISIC_bcc_0054,bcc,follow_up,55,male,chest,data\processed\images\ISIC_bcc_0054.jpg,train
+ISIC_bcc_0055,bcc,confocal,55,male,face,data\processed\images\ISIC_bcc_0055.jpg,train
+ISIC_bcc_0056,bcc,consensus,75,female,trunk,data\processed\images\ISIC_bcc_0056.jpg,train
+ISIC_bcc_0057,bcc,confocal,45,female,neck,data\processed\images\ISIC_bcc_0057.jpg,train
+ISIC_bcc_0058,bcc,consensus,65,male,chest,data\processed\images\ISIC_bcc_0058.jpg,val
+ISIC_bcc_0059,bcc,confocal,45,male,neck,data\processed\images\ISIC_bcc_0059.jpg,test
+ISIC_bcc_0060,bcc,confocal,75,male,upper extremity,data\processed\images\ISIC_bcc_0060.jpg,val
+ISIC_bcc_0061,bcc,consensus,45,male,trunk,data\processed\images\ISIC_bcc_0061.jpg,test
+ISIC_bcc_0062,bcc,consensus,55,male,chest,data\processed\images\ISIC_bcc_0062.jpg,val
+ISIC_bcc_0063,bcc,histo,35,female,trunk,data\processed\images\ISIC_bcc_0063.jpg,train
+ISIC_bcc_0064,bcc,confocal,45,male,face,data\processed\images\ISIC_bcc_0064.jpg,test
+ISIC_bcc_0065,bcc,confocal,55,male,face,data\processed\images\ISIC_bcc_0065.jpg,train
+ISIC_bcc_0066,bcc,confocal,25,female,chest,data\processed\images\ISIC_bcc_0066.jpg,train
+ISIC_bcc_0067,bcc,follow_up,75,female,lower extremity,data\processed\images\ISIC_bcc_0067.jpg,val
+ISIC_bcc_0068,bcc,follow_up,75,female,chest,data\processed\images\ISIC_bcc_0068.jpg,test
+ISIC_bcc_0069,bcc,follow_up,55,male,lower extremity,data\processed\images\ISIC_bcc_0069.jpg,train
+ISIC_bkl_0000,bkl,consensus,25,female,abdomen,data\processed\images\ISIC_bkl_0000.jpg,train
+ISIC_bkl_0001,bkl,confocal,65,male,back,data\processed\images\ISIC_bkl_0001.jpg,test
+ISIC_bkl_0002,bkl,follow_up,45,female,chest,data\processed\images\ISIC_bkl_0002.jpg,train
+ISIC_bkl_0003,bkl,follow_up,45,female,face,data\processed\images\ISIC_bkl_0003.jpg,train
+ISIC_bkl_0004,bkl,consensus,65,female,abdomen,data\processed\images\ISIC_bkl_0004.jpg,train
+ISIC_bkl_0005,bkl,histo,75,male,abdomen,data\processed\images\ISIC_bkl_0005.jpg,val
+ISIC_bkl_0006,bkl,histo,75,female,lower extremity,data\processed\images\ISIC_bkl_0006.jpg,test
+ISIC_bkl_0007,bkl,confocal,75,male,lower extremity,data\processed\images\ISIC_bkl_0007.jpg,train
+ISIC_bkl_0008,bkl,histo,35,female,lower extremity,data\processed\images\ISIC_bkl_0008.jpg,train
+ISIC_bkl_0009,bkl,confocal,25,female,abdomen,data\processed\images\ISIC_bkl_0009.jpg,train
+ISIC_bkl_0010,bkl,follow_up,45,female,neck,data\processed\images\ISIC_bkl_0010.jpg,train
+ISIC_bkl_0011,bkl,follow_up,65,male,chest,data\processed\images\ISIC_bkl_0011.jpg,train
+ISIC_bkl_0012,bkl,follow_up,65,male,face,data\processed\images\ISIC_bkl_0012.jpg,test
+ISIC_bkl_0013,bkl,histo,45,male,upper extremity,data\processed\images\ISIC_bkl_0013.jpg,train
+ISIC_bkl_0014,bkl,histo,45,female,lower extremity,data\processed\images\ISIC_bkl_0014.jpg,test
+ISIC_bkl_0015,bkl,consensus,35,female,lower extremity,data\processed\images\ISIC_bkl_0015.jpg,train
+ISIC_bkl_0016,bkl,histo,25,male,upper extremity,data\processed\images\ISIC_bkl_0016.jpg,train
+ISIC_bkl_0017,bkl,histo,65,male,trunk,data\processed\images\ISIC_bkl_0017.jpg,train
+ISIC_bkl_0018,bkl,consensus,65,female,trunk,data\processed\images\ISIC_bkl_0018.jpg,train
+ISIC_bkl_0019,bkl,histo,25,male,abdomen,data\processed\images\ISIC_bkl_0019.jpg,train
+ISIC_bkl_0020,bkl,consensus,75,female,back,data\processed\images\ISIC_bkl_0020.jpg,train
+ISIC_bkl_0021,bkl,consensus,65,male,trunk,data\processed\images\ISIC_bkl_0021.jpg,val
+ISIC_bkl_0022,bkl,follow_up,35,female,back,data\processed\images\ISIC_bkl_0022.jpg,val
+ISIC_bkl_0023,bkl,follow_up,25,male,trunk,data\processed\images\ISIC_bkl_0023.jpg,train
+ISIC_bkl_0024,bkl,confocal,65,female,face,data\processed\images\ISIC_bkl_0024.jpg,train
+ISIC_bkl_0025,bkl,confocal,45,male,lower extremity,data\processed\images\ISIC_bkl_0025.jpg,train
+ISIC_bkl_0026,bkl,consensus,55,female,lower extremity,data\processed\images\ISIC_bkl_0026.jpg,train
+ISIC_bkl_0027,bkl,histo,75,male,trunk,data\processed\images\ISIC_bkl_0027.jpg,test
+ISIC_bkl_0028,bkl,follow_up,65,female,neck,data\processed\images\ISIC_bkl_0028.jpg,val
+ISIC_bkl_0029,bkl,consensus,65,female,upper extremity,data\processed\images\ISIC_bkl_0029.jpg,train
+ISIC_bkl_0030,bkl,histo,65,female,trunk,data\processed\images\ISIC_bkl_0030.jpg,train
+ISIC_bkl_0031,bkl,histo,45,male,lower extremity,data\processed\images\ISIC_bkl_0031.jpg,test
+ISIC_bkl_0032,bkl,follow_up,65,female,trunk,data\processed\images\ISIC_bkl_0032.jpg,train
+ISIC_bkl_0033,bkl,consensus,65,female,face,data\processed\images\ISIC_bkl_0033.jpg,train
+ISIC_bkl_0034,bkl,histo,75,male,trunk,data\processed\images\ISIC_bkl_0034.jpg,train
+ISIC_bkl_0035,bkl,follow_up,65,male,abdomen,data\processed\images\ISIC_bkl_0035.jpg,val
+ISIC_bkl_0036,bkl,follow_up,25,male,abdomen,data\processed\images\ISIC_bkl_0036.jpg,train
+ISIC_bkl_0037,bkl,confocal,45,female,trunk,data\processed\images\ISIC_bkl_0037.jpg,train
+ISIC_bkl_0038,bkl,histo,25,female,face,data\processed\images\ISIC_bkl_0038.jpg,train
+ISIC_bkl_0039,bkl,consensus,65,female,chest,data\processed\images\ISIC_bkl_0039.jpg,train
+ISIC_bkl_0040,bkl,histo,65,male,chest,data\processed\images\ISIC_bkl_0040.jpg,train
+ISIC_bkl_0041,bkl,follow_up,45,female,face,data\processed\images\ISIC_bkl_0041.jpg,val
+ISIC_bkl_0042,bkl,follow_up,55,male,neck,data\processed\images\ISIC_bkl_0042.jpg,test
+ISIC_bkl_0043,bkl,histo,65,male,face,data\processed\images\ISIC_bkl_0043.jpg,val
+ISIC_bkl_0044,bkl,consensus,45,male,neck,data\processed\images\ISIC_bkl_0044.jpg,test
+ISIC_bkl_0045,bkl,follow_up,45,female,upper extremity,data\processed\images\ISIC_bkl_0045.jpg,train
+ISIC_bkl_0046,bkl,consensus,45,male,upper extremity,data\processed\images\ISIC_bkl_0046.jpg,train
+ISIC_bkl_0047,bkl,follow_up,35,male,neck,data\processed\images\ISIC_bkl_0047.jpg,train
+ISIC_bkl_0048,bkl,consensus,65,female,trunk,data\processed\images\ISIC_bkl_0048.jpg,train
+ISIC_bkl_0049,bkl,follow_up,65,male,trunk,data\processed\images\ISIC_bkl_0049.jpg,train
+ISIC_bkl_0050,bkl,confocal,55,female,lower extremity,data\processed\images\ISIC_bkl_0050.jpg,val
+ISIC_bkl_0051,bkl,follow_up,75,female,back,data\processed\images\ISIC_bkl_0051.jpg,train
+ISIC_bkl_0052,bkl,histo,75,male,upper extremity,data\processed\images\ISIC_bkl_0052.jpg,val
+ISIC_bkl_0053,bkl,consensus,35,female,trunk,data\processed\images\ISIC_bkl_0053.jpg,train
+ISIC_bkl_0054,bkl,follow_up,35,male,neck,data\processed\images\ISIC_bkl_0054.jpg,test
+ISIC_bkl_0055,bkl,confocal,35,female,chest,data\processed\images\ISIC_bkl_0055.jpg,train
+ISIC_bkl_0056,bkl,follow_up,25,male,chest,data\processed\images\ISIC_bkl_0056.jpg,train
+ISIC_bkl_0057,bkl,consensus,25,male,face,data\processed\images\ISIC_bkl_0057.jpg,train
+ISIC_bkl_0058,bkl,confocal,65,female,trunk,data\processed\images\ISIC_bkl_0058.jpg,test
+ISIC_bkl_0059,bkl,confocal,65,female,back,data\processed\images\ISIC_bkl_0059.jpg,train
+ISIC_bkl_0060,bkl,confocal,45,male,trunk,data\processed\images\ISIC_bkl_0060.jpg,val
+ISIC_bkl_0061,bkl,follow_up,45,male,upper extremity,data\processed\images\ISIC_bkl_0061.jpg,test
+ISIC_bkl_0062,bkl,histo,45,female,chest,data\processed\images\ISIC_bkl_0062.jpg,train
+ISIC_bkl_0063,bkl,consensus,45,female,neck,data\processed\images\ISIC_bkl_0063.jpg,train
+ISIC_bkl_0064,bkl,follow_up,65,male,back,data\processed\images\ISIC_bkl_0064.jpg,train
+ISIC_bkl_0065,bkl,follow_up,45,male,chest,data\processed\images\ISIC_bkl_0065.jpg,train
+ISIC_bkl_0066,bkl,consensus,65,male,back,data\processed\images\ISIC_bkl_0066.jpg,train
+ISIC_bkl_0067,bkl,histo,35,male,neck,data\processed\images\ISIC_bkl_0067.jpg,train
+ISIC_bkl_0068,bkl,histo,65,male,lower extremity,data\processed\images\ISIC_bkl_0068.jpg,train
+ISIC_bkl_0069,bkl,confocal,75,male,neck,data\processed\images\ISIC_bkl_0069.jpg,train
+ISIC_df_0000,df,histo,75,female,lower extremity,data\processed\images\ISIC_df_0000.jpg,train
+ISIC_df_0001,df,histo,45,male,chest,data\processed\images\ISIC_df_0001.jpg,train
+ISIC_df_0002,df,follow_up,75,female,face,data\processed\images\ISIC_df_0002.jpg,train
+ISIC_df_0003,df,confocal,65,male,trunk,data\processed\images\ISIC_df_0003.jpg,train
+ISIC_df_0004,df,histo,25,female,lower extremity,data\processed\images\ISIC_df_0004.jpg,val
+ISIC_df_0005,df,follow_up,55,female,chest,data\processed\images\ISIC_df_0005.jpg,test
+ISIC_df_0006,df,consensus,45,male,face,data\processed\images\ISIC_df_0006.jpg,train
+ISIC_df_0007,df,consensus,75,male,trunk,data\processed\images\ISIC_df_0007.jpg,train
+ISIC_df_0008,df,consensus,45,male,upper extremity,data\processed\images\ISIC_df_0008.jpg,test
+ISIC_df_0009,df,histo,55,female,face,data\processed\images\ISIC_df_0009.jpg,train
+ISIC_df_0010,df,histo,75,female,upper extremity,data\processed\images\ISIC_df_0010.jpg,test
+ISIC_df_0011,df,histo,35,male,lower extremity,data\processed\images\ISIC_df_0011.jpg,train
+ISIC_df_0012,df,histo,65,female,face,data\processed\images\ISIC_df_0012.jpg,train
+ISIC_df_0013,df,consensus,35,female,face,data\processed\images\ISIC_df_0013.jpg,train
+ISIC_df_0014,df,histo,35,male,trunk,data\processed\images\ISIC_df_0014.jpg,train
+ISIC_df_0015,df,confocal,45,male,upper extremity,data\processed\images\ISIC_df_0015.jpg,val
+ISIC_df_0016,df,follow_up,35,male,back,data\processed\images\ISIC_df_0016.jpg,val
+ISIC_df_0017,df,histo,35,male,upper extremity,data\processed\images\ISIC_df_0017.jpg,train
+ISIC_df_0018,df,consensus,65,female,neck,data\processed\images\ISIC_df_0018.jpg,train
+ISIC_df_0019,df,consensus,75,male,abdomen,data\processed\images\ISIC_df_0019.jpg,train
+ISIC_df_0020,df,histo,55,female,back,data\processed\images\ISIC_df_0020.jpg,train
+ISIC_df_0021,df,consensus,25,female,face,data\processed\images\ISIC_df_0021.jpg,test
+ISIC_df_0022,df,confocal,35,male,back,data\processed\images\ISIC_df_0022.jpg,train
+ISIC_df_0023,df,follow_up,65,male,upper extremity,data\processed\images\ISIC_df_0023.jpg,val
+ISIC_df_0024,df,confocal,65,male,chest,data\processed\images\ISIC_df_0024.jpg,train
+ISIC_df_0025,df,histo,45,male,back,data\processed\images\ISIC_df_0025.jpg,train
+ISIC_df_0026,df,confocal,45,male,lower extremity,data\processed\images\ISIC_df_0026.jpg,train
+ISIC_df_0027,df,confocal,45,male,neck,data\processed\images\ISIC_df_0027.jpg,train
+ISIC_df_0028,df,histo,45,male,back,data\processed\images\ISIC_df_0028.jpg,train
+ISIC_df_0029,df,follow_up,75,female,face,data\processed\images\ISIC_df_0029.jpg,train
+ISIC_df_0030,df,follow_up,55,female,upper extremity,data\processed\images\ISIC_df_0030.jpg,train
+ISIC_df_0031,df,histo,55,male,chest,data\processed\images\ISIC_df_0031.jpg,test
+ISIC_df_0032,df,histo,65,male,abdomen,data\processed\images\ISIC_df_0032.jpg,test
+ISIC_df_0033,df,consensus,25,female,lower extremity,data\processed\images\ISIC_df_0033.jpg,val
+ISIC_df_0034,df,follow_up,55,female,face,data\processed\images\ISIC_df_0034.jpg,train
+ISIC_df_0035,df,histo,25,female,neck,data\processed\images\ISIC_df_0035.jpg,train
+ISIC_df_0036,df,histo,65,female,lower extremity,data\processed\images\ISIC_df_0036.jpg,train
+ISIC_df_0037,df,consensus,55,male,abdomen,data\processed\images\ISIC_df_0037.jpg,val
+ISIC_df_0038,df,follow_up,45,male,lower extremity,data\processed\images\ISIC_df_0038.jpg,train
+ISIC_df_0039,df,histo,35,male,lower extremity,data\processed\images\ISIC_df_0039.jpg,train
+ISIC_df_0040,df,follow_up,35,female,face,data\processed\images\ISIC_df_0040.jpg,train
+ISIC_df_0041,df,confocal,55,male,lower extremity,data\processed\images\ISIC_df_0041.jpg,train
+ISIC_df_0042,df,histo,35,male,back,data\processed\images\ISIC_df_0042.jpg,train
+ISIC_df_0043,df,follow_up,45,male,neck,data\processed\images\ISIC_df_0043.jpg,test
+ISIC_df_0044,df,consensus,35,male,chest,data\processed\images\ISIC_df_0044.jpg,train
+ISIC_df_0045,df,confocal,35,male,back,data\processed\images\ISIC_df_0045.jpg,train
+ISIC_df_0046,df,consensus,55,male,neck,data\processed\images\ISIC_df_0046.jpg,train
+ISIC_df_0047,df,follow_up,55,male,back,data\processed\images\ISIC_df_0047.jpg,test
+ISIC_df_0048,df,histo,45,female,chest,data\processed\images\ISIC_df_0048.jpg,train
+ISIC_df_0049,df,consensus,55,male,upper extremity,data\processed\images\ISIC_df_0049.jpg,train
+ISIC_df_0050,df,confocal,25,male,upper extremity,data\processed\images\ISIC_df_0050.jpg,train
+ISIC_df_0051,df,histo,35,female,lower extremity,data\processed\images\ISIC_df_0051.jpg,val
+ISIC_df_0052,df,consensus,25,female,face,data\processed\images\ISIC_df_0052.jpg,train
+ISIC_df_0053,df,follow_up,35,male,trunk,data\processed\images\ISIC_df_0053.jpg,val
+ISIC_df_0054,df,consensus,75,male,face,data\processed\images\ISIC_df_0054.jpg,test
+ISIC_df_0055,df,follow_up,55,male,lower extremity,data\processed\images\ISIC_df_0055.jpg,val
+ISIC_df_0056,df,consensus,45,male,abdomen,data\processed\images\ISIC_df_0056.jpg,train
+ISIC_df_0057,df,confocal,65,female,lower extremity,data\processed\images\ISIC_df_0057.jpg,test
+ISIC_df_0058,df,histo,75,male,back,data\processed\images\ISIC_df_0058.jpg,train
+ISIC_df_0059,df,consensus,35,female,face,data\processed\images\ISIC_df_0059.jpg,train
+ISIC_df_0060,df,consensus,45,male,back,data\processed\images\ISIC_df_0060.jpg,train
+ISIC_df_0061,df,follow_up,25,female,abdomen,data\processed\images\ISIC_df_0061.jpg,train
+ISIC_df_0062,df,consensus,35,female,upper extremity,data\processed\images\ISIC_df_0062.jpg,test
+ISIC_df_0063,df,follow_up,45,female,back,data\processed\images\ISIC_df_0063.jpg,train
+ISIC_df_0064,df,histo,75,male,face,data\processed\images\ISIC_df_0064.jpg,train
+ISIC_df_0065,df,confocal,45,female,lower extremity,data\processed\images\ISIC_df_0065.jpg,train
+ISIC_df_0066,df,follow_up,35,male,lower extremity,data\processed\images\ISIC_df_0066.jpg,train
+ISIC_df_0067,df,confocal,65,female,face,data\processed\images\ISIC_df_0067.jpg,train
+ISIC_df_0068,df,confocal,25,male,face,data\processed\images\ISIC_df_0068.jpg,val
+ISIC_df_0069,df,follow_up,35,male,trunk,data\processed\images\ISIC_df_0069.jpg,train
+ISIC_mel_0000,mel,confocal,25,female,trunk,data\processed\images\ISIC_mel_0000.jpg,train
+ISIC_mel_0001,mel,histo,65,male,face,data\processed\images\ISIC_mel_0001.jpg,train
+ISIC_mel_0002,mel,consensus,45,male,upper extremity,data\processed\images\ISIC_mel_0002.jpg,val
+ISIC_mel_0003,mel,consensus,55,male,upper extremity,data\processed\images\ISIC_mel_0003.jpg,val
+ISIC_mel_0004,mel,consensus,25,female,upper extremity,data\processed\images\ISIC_mel_0004.jpg,train
+ISIC_mel_0005,mel,follow_up,25,female,lower extremity,data\processed\images\ISIC_mel_0005.jpg,train
+ISIC_mel_0006,mel,confocal,55,male,face,data\processed\images\ISIC_mel_0006.jpg,test
+ISIC_mel_0007,mel,follow_up,55,male,lower extremity,data\processed\images\ISIC_mel_0007.jpg,test
+ISIC_mel_0008,mel,consensus,75,female,back,data\processed\images\ISIC_mel_0008.jpg,train
+ISIC_mel_0009,mel,follow_up,25,male,face,data\processed\images\ISIC_mel_0009.jpg,train
+ISIC_mel_0010,mel,follow_up,45,female,trunk,data\processed\images\ISIC_mel_0010.jpg,train
+ISIC_mel_0011,mel,histo,45,male,upper extremity,data\processed\images\ISIC_mel_0011.jpg,train
+ISIC_mel_0012,mel,histo,75,male,abdomen,data\processed\images\ISIC_mel_0012.jpg,train
+ISIC_mel_0013,mel,histo,25,female,trunk,data\processed\images\ISIC_mel_0013.jpg,val
+ISIC_mel_0014,mel,confocal,75,male,upper extremity,data\processed\images\ISIC_mel_0014.jpg,train
+ISIC_mel_0015,mel,confocal,65,male,trunk,data\processed\images\ISIC_mel_0015.jpg,test
+ISIC_mel_0016,mel,histo,75,female,back,data\processed\images\ISIC_mel_0016.jpg,train
+ISIC_mel_0017,mel,follow_up,35,male,chest,data\processed\images\ISIC_mel_0017.jpg,test
+ISIC_mel_0018,mel,confocal,65,female,neck,data\processed\images\ISIC_mel_0018.jpg,train
+ISIC_mel_0019,mel,follow_up,65,female,upper extremity,data\processed\images\ISIC_mel_0019.jpg,test
+ISIC_mel_0020,mel,histo,65,female,back,data\processed\images\ISIC_mel_0020.jpg,test
+ISIC_mel_0021,mel,histo,65,female,trunk,data\processed\images\ISIC_mel_0021.jpg,train
+ISIC_mel_0022,mel,follow_up,25,female,trunk,data\processed\images\ISIC_mel_0022.jpg,train
+ISIC_mel_0023,mel,confocal,45,male,chest,data\processed\images\ISIC_mel_0023.jpg,train
+ISIC_mel_0024,mel,histo,25,female,neck,data\processed\images\ISIC_mel_0024.jpg,val
+ISIC_mel_0025,mel,consensus,25,male,trunk,data\processed\images\ISIC_mel_0025.jpg,train
+ISIC_mel_0026,mel,confocal,65,female,lower extremity,data\processed\images\ISIC_mel_0026.jpg,train
+ISIC_mel_0027,mel,confocal,65,female,lower extremity,data\processed\images\ISIC_mel_0027.jpg,train
+ISIC_mel_0028,mel,follow_up,35,male,upper extremity,data\processed\images\ISIC_mel_0028.jpg,train
+ISIC_mel_0029,mel,histo,25,male,upper extremity,data\processed\images\ISIC_mel_0029.jpg,train
+ISIC_mel_0030,mel,histo,25,female,lower extremity,data\processed\images\ISIC_mel_0030.jpg,train
+ISIC_mel_0031,mel,confocal,35,male,trunk,data\processed\images\ISIC_mel_0031.jpg,train
+ISIC_mel_0032,mel,follow_up,65,female,chest,data\processed\images\ISIC_mel_0032.jpg,test
+ISIC_mel_0033,mel,follow_up,65,male,abdomen,data\processed\images\ISIC_mel_0033.jpg,train
+ISIC_mel_0034,mel,consensus,55,female,upper extremity,data\processed\images\ISIC_mel_0034.jpg,val
+ISIC_mel_0035,mel,follow_up,35,female,face,data\processed\images\ISIC_mel_0035.jpg,val
+ISIC_mel_0036,mel,confocal,25,male,back,data\processed\images\ISIC_mel_0036.jpg,train
+ISIC_mel_0037,mel,follow_up,65,female,neck,data\processed\images\ISIC_mel_0037.jpg,val
+ISIC_mel_0038,mel,follow_up,25,female,face,data\processed\images\ISIC_mel_0038.jpg,train
+ISIC_mel_0039,mel,confocal,25,female,abdomen,data\processed\images\ISIC_mel_0039.jpg,train
+ISIC_mel_0040,mel,histo,65,female,face,data\processed\images\ISIC_mel_0040.jpg,val
+ISIC_mel_0041,mel,consensus,35,female,back,data\processed\images\ISIC_mel_0041.jpg,train
+ISIC_mel_0042,mel,consensus,35,female,lower extremity,data\processed\images\ISIC_mel_0042.jpg,train
+ISIC_mel_0043,mel,consensus,75,male,chest,data\processed\images\ISIC_mel_0043.jpg,train
+ISIC_mel_0044,mel,follow_up,25,male,lower extremity,data\processed\images\ISIC_mel_0044.jpg,train
+ISIC_mel_0045,mel,confocal,25,male,upper extremity,data\processed\images\ISIC_mel_0045.jpg,train
+ISIC_mel_0046,mel,consensus,65,female,upper extremity,data\processed\images\ISIC_mel_0046.jpg,train
+ISIC_mel_0047,mel,histo,55,female,chest,data\processed\images\ISIC_mel_0047.jpg,test
+ISIC_mel_0048,mel,confocal,25,female,neck,data\processed\images\ISIC_mel_0048.jpg,train
+ISIC_mel_0049,mel,histo,35,female,upper extremity,data\processed\images\ISIC_mel_0049.jpg,train
+ISIC_mel_0050,mel,follow_up,45,female,neck,data\processed\images\ISIC_mel_0050.jpg,train
+ISIC_mel_0051,mel,confocal,55,female,lower extremity,data\processed\images\ISIC_mel_0051.jpg,train
+ISIC_mel_0052,mel,follow_up,25,female,chest,data\processed\images\ISIC_mel_0052.jpg,train
+ISIC_mel_0053,mel,consensus,75,female,face,data\processed\images\ISIC_mel_0053.jpg,val
+ISIC_mel_0054,mel,confocal,25,female,back,data\processed\images\ISIC_mel_0054.jpg,train
+ISIC_mel_0055,mel,consensus,65,female,back,data\processed\images\ISIC_mel_0055.jpg,train
+ISIC_mel_0056,mel,follow_up,35,male,lower extremity,data\processed\images\ISIC_mel_0056.jpg,train
+ISIC_mel_0057,mel,confocal,65,female,chest,data\processed\images\ISIC_mel_0057.jpg,train
+ISIC_mel_0058,mel,confocal,25,male,upper extremity,data\processed\images\ISIC_mel_0058.jpg,test
+ISIC_mel_0059,mel,confocal,55,male,upper extremity,data\processed\images\ISIC_mel_0059.jpg,train
+ISIC_mel_0060,mel,follow_up,65,male,abdomen,data\processed\images\ISIC_mel_0060.jpg,val
+ISIC_mel_0061,mel,consensus,35,female,chest,data\processed\images\ISIC_mel_0061.jpg,train
+ISIC_mel_0062,mel,follow_up,25,male,chest,data\processed\images\ISIC_mel_0062.jpg,train
+ISIC_mel_0063,mel,consensus,45,male,back,data\processed\images\ISIC_mel_0063.jpg,train
+ISIC_mel_0064,mel,follow_up,25,female,lower extremity,data\processed\images\ISIC_mel_0064.jpg,train
+ISIC_mel_0065,mel,histo,25,female,abdomen,data\processed\images\ISIC_mel_0065.jpg,test
+ISIC_mel_0066,mel,consensus,55,male,back,data\processed\images\ISIC_mel_0066.jpg,train
+ISIC_mel_0067,mel,confocal,25,male,face,data\processed\images\ISIC_mel_0067.jpg,train
+ISIC_mel_0068,mel,confocal,35,female,upper extremity,data\processed\images\ISIC_mel_0068.jpg,train
+ISIC_mel_0069,mel,consensus,65,male,upper extremity,data\processed\images\ISIC_mel_0069.jpg,test
+ISIC_nv_0000,nv,confocal,65,female,upper extremity,data\processed\images\ISIC_nv_0000.jpg,train
+ISIC_nv_0001,nv,confocal,65,female,chest,data\processed\images\ISIC_nv_0001.jpg,val
+ISIC_nv_0002,nv,histo,25,female,abdomen,data\processed\images\ISIC_nv_0002.jpg,train
+ISIC_nv_0003,nv,consensus,35,male,abdomen,data\processed\images\ISIC_nv_0003.jpg,train
+ISIC_nv_0004,nv,follow_up,25,male,neck,data\processed\images\ISIC_nv_0004.jpg,train
+ISIC_nv_0005,nv,consensus,75,male,chest,data\processed\images\ISIC_nv_0005.jpg,train
+ISIC_nv_0006,nv,consensus,45,female,neck,data\processed\images\ISIC_nv_0006.jpg,train
+ISIC_nv_0007,nv,consensus,55,male,back,data\processed\images\ISIC_nv_0007.jpg,train
+ISIC_nv_0008,nv,confocal,55,female,back,data\processed\images\ISIC_nv_0008.jpg,test
+ISIC_nv_0009,nv,histo,25,male,abdomen,data\processed\images\ISIC_nv_0009.jpg,train
+ISIC_nv_0010,nv,confocal,65,female,back,data\processed\images\ISIC_nv_0010.jpg,train
+ISIC_nv_0011,nv,confocal,65,female,chest,data\processed\images\ISIC_nv_0011.jpg,train
+ISIC_nv_0012,nv,follow_up,35,female,abdomen,data\processed\images\ISIC_nv_0012.jpg,train
+ISIC_nv_0013,nv,confocal,75,female,lower extremity,data\processed\images\ISIC_nv_0013.jpg,train
+ISIC_nv_0014,nv,follow_up,65,male,back,data\processed\images\ISIC_nv_0014.jpg,train
+ISIC_nv_0015,nv,histo,45,male,chest,data\processed\images\ISIC_nv_0015.jpg,train
+ISIC_nv_0016,nv,histo,35,male,chest,data\processed\images\ISIC_nv_0016.jpg,test
+ISIC_nv_0017,nv,follow_up,55,male,neck,data\processed\images\ISIC_nv_0017.jpg,train
+ISIC_nv_0018,nv,follow_up,75,male,neck,data\processed\images\ISIC_nv_0018.jpg,train
+ISIC_nv_0019,nv,histo,25,female,trunk,data\processed\images\ISIC_nv_0019.jpg,train
+ISIC_nv_0020,nv,follow_up,25,female,upper extremity,data\processed\images\ISIC_nv_0020.jpg,train
+ISIC_nv_0021,nv,follow_up,65,female,back,data\processed\images\ISIC_nv_0021.jpg,test
+ISIC_nv_0022,nv,follow_up,35,male,face,data\processed\images\ISIC_nv_0022.jpg,val
+ISIC_nv_0023,nv,consensus,35,male,trunk,data\processed\images\ISIC_nv_0023.jpg,val
+ISIC_nv_0024,nv,confocal,75,male,neck,data\processed\images\ISIC_nv_0024.jpg,train
+ISIC_nv_0025,nv,follow_up,35,female,neck,data\processed\images\ISIC_nv_0025.jpg,test
+ISIC_nv_0026,nv,consensus,35,male,trunk,data\processed\images\ISIC_nv_0026.jpg,val
+ISIC_nv_0027,nv,follow_up,55,female,trunk,data\processed\images\ISIC_nv_0027.jpg,train
+ISIC_nv_0028,nv,consensus,25,female,upper extremity,data\processed\images\ISIC_nv_0028.jpg,train
+ISIC_nv_0029,nv,histo,45,male,face,data\processed\images\ISIC_nv_0029.jpg,train
+ISIC_nv_0030,nv,histo,75,female,lower extremity,data\processed\images\ISIC_nv_0030.jpg,train
+ISIC_nv_0031,nv,histo,25,female,trunk,data\processed\images\ISIC_nv_0031.jpg,test
+ISIC_nv_0032,nv,confocal,55,female,back,data\processed\images\ISIC_nv_0032.jpg,test
+ISIC_nv_0033,nv,histo,75,male,face,data\processed\images\ISIC_nv_0033.jpg,train
+ISIC_nv_0034,nv,confocal,35,female,upper extremity,data\processed\images\ISIC_nv_0034.jpg,train
+ISIC_nv_0035,nv,follow_up,45,female,chest,data\processed\images\ISIC_nv_0035.jpg,train
+ISIC_nv_0036,nv,consensus,75,male,upper extremity,data\processed\images\ISIC_nv_0036.jpg,train
+ISIC_nv_0037,nv,consensus,65,male,upper extremity,data\processed\images\ISIC_nv_0037.jpg,train
+ISIC_nv_0038,nv,follow_up,25,female,chest,data\processed\images\ISIC_nv_0038.jpg,test
+ISIC_nv_0039,nv,consensus,35,male,trunk,data\processed\images\ISIC_nv_0039.jpg,val
+ISIC_nv_0040,nv,consensus,65,male,back,data\processed\images\ISIC_nv_0040.jpg,train
+ISIC_nv_0041,nv,follow_up,35,male,lower extremity,data\processed\images\ISIC_nv_0041.jpg,val
+ISIC_nv_0042,nv,consensus,65,female,upper extremity,data\processed\images\ISIC_nv_0042.jpg,val
+ISIC_nv_0043,nv,histo,25,male,chest,data\processed\images\ISIC_nv_0043.jpg,train
+ISIC_nv_0044,nv,confocal,35,female,lower extremity,data\processed\images\ISIC_nv_0044.jpg,train
+ISIC_nv_0045,nv,confocal,35,male,face,data\processed\images\ISIC_nv_0045.jpg,test
+ISIC_nv_0046,nv,follow_up,25,male,upper extremity,data\processed\images\ISIC_nv_0046.jpg,val
+ISIC_nv_0047,nv,confocal,75,male,trunk,data\processed\images\ISIC_nv_0047.jpg,test
+ISIC_nv_0048,nv,confocal,25,male,upper extremity,data\processed\images\ISIC_nv_0048.jpg,train
+ISIC_nv_0049,nv,confocal,35,male,face,data\processed\images\ISIC_nv_0049.jpg,train
+ISIC_nv_0050,nv,follow_up,65,female,trunk,data\processed\images\ISIC_nv_0050.jpg,train
+ISIC_nv_0051,nv,follow_up,65,female,back,data\processed\images\ISIC_nv_0051.jpg,train
+ISIC_nv_0052,nv,consensus,45,female,neck,data\processed\images\ISIC_nv_0052.jpg,train
+ISIC_nv_0053,nv,consensus,75,female,face,data\processed\images\ISIC_nv_0053.jpg,val
+ISIC_nv_0054,nv,confocal,25,male,upper extremity,data\processed\images\ISIC_nv_0054.jpg,train
+ISIC_nv_0055,nv,confocal,35,female,back,data\processed\images\ISIC_nv_0055.jpg,train
+ISIC_nv_0056,nv,follow_up,75,male,trunk,data\processed\images\ISIC_nv_0056.jpg,train
+ISIC_nv_0057,nv,follow_up,55,female,neck,data\processed\images\ISIC_nv_0057.jpg,test
+ISIC_nv_0058,nv,confocal,55,female,lower extremity,data\processed\images\ISIC_nv_0058.jpg,train
+ISIC_nv_0059,nv,histo,65,female,trunk,data\processed\images\ISIC_nv_0059.jpg,train
+ISIC_nv_0060,nv,consensus,55,male,lower extremity,data\processed\images\ISIC_nv_0060.jpg,val
+ISIC_nv_0061,nv,histo,35,male,face,data\processed\images\ISIC_nv_0061.jpg,train
+ISIC_nv_0062,nv,consensus,65,female,chest,data\processed\images\ISIC_nv_0062.jpg,train
+ISIC_nv_0063,nv,follow_up,65,male,upper extremity,data\processed\images\ISIC_nv_0063.jpg,train
+ISIC_nv_0064,nv,consensus,45,female,lower extremity,data\processed\images\ISIC_nv_0064.jpg,train
+ISIC_nv_0065,nv,histo,65,female,upper extremity,data\processed\images\ISIC_nv_0065.jpg,train
+ISIC_nv_0066,nv,follow_up,35,female,back,data\processed\images\ISIC_nv_0066.jpg,val
+ISIC_nv_0067,nv,histo,45,male,abdomen,data\processed\images\ISIC_nv_0067.jpg,train
+ISIC_nv_0068,nv,follow_up,45,female,back,data\processed\images\ISIC_nv_0068.jpg,train
+ISIC_nv_0069,nv,histo,75,male,chest,data\processed\images\ISIC_nv_0069.jpg,train
+ISIC_vasc_0000,vasc,histo,25,female,back,data\processed\images\ISIC_vasc_0000.jpg,test
+ISIC_vasc_0001,vasc,histo,25,female,neck,data\processed\images\ISIC_vasc_0001.jpg,train
+ISIC_vasc_0002,vasc,histo,45,male,chest,data\processed\images\ISIC_vasc_0002.jpg,train
+ISIC_vasc_0003,vasc,consensus,65,male,chest,data\processed\images\ISIC_vasc_0003.jpg,train
+ISIC_vasc_0004,vasc,confocal,25,female,trunk,data\processed\images\ISIC_vasc_0004.jpg,train
+ISIC_vasc_0005,vasc,histo,45,male,upper extremity,data\processed\images\ISIC_vasc_0005.jpg,train
+ISIC_vasc_0006,vasc,histo,65,male,upper extremity,data\processed\images\ISIC_vasc_0006.jpg,train
+ISIC_vasc_0007,vasc,histo,55,male,neck,data\processed\images\ISIC_vasc_0007.jpg,train
+ISIC_vasc_0008,vasc,confocal,55,female,trunk,data\processed\images\ISIC_vasc_0008.jpg,val
+ISIC_vasc_0009,vasc,follow_up,75,male,neck,data\processed\images\ISIC_vasc_0009.jpg,train
+ISIC_vasc_0010,vasc,follow_up,75,male,chest,data\processed\images\ISIC_vasc_0010.jpg,train
+ISIC_vasc_0011,vasc,follow_up,75,male,face,data\processed\images\ISIC_vasc_0011.jpg,test
+ISIC_vasc_0012,vasc,histo,65,male,neck,data\processed\images\ISIC_vasc_0012.jpg,train
+ISIC_vasc_0013,vasc,follow_up,35,male,abdomen,data\processed\images\ISIC_vasc_0013.jpg,train
+ISIC_vasc_0014,vasc,consensus,75,male,trunk,data\processed\images\ISIC_vasc_0014.jpg,train
+ISIC_vasc_0015,vasc,consensus,45,male,upper extremity,data\processed\images\ISIC_vasc_0015.jpg,train
+ISIC_vasc_0016,vasc,histo,35,female,back,data\processed\images\ISIC_vasc_0016.jpg,val
+ISIC_vasc_0017,vasc,confocal,25,male,lower extremity,data\processed\images\ISIC_vasc_0017.jpg,train
+ISIC_vasc_0018,vasc,histo,75,male,back,data\processed\images\ISIC_vasc_0018.jpg,val
+ISIC_vasc_0019,vasc,histo,65,female,trunk,data\processed\images\ISIC_vasc_0019.jpg,train
+ISIC_vasc_0020,vasc,consensus,35,female,chest,data\processed\images\ISIC_vasc_0020.jpg,train
+ISIC_vasc_0021,vasc,consensus,55,female,trunk,data\processed\images\ISIC_vasc_0021.jpg,train
+ISIC_vasc_0022,vasc,follow_up,65,male,abdomen,data\processed\images\ISIC_vasc_0022.jpg,test
+ISIC_vasc_0023,vasc,histo,45,male,trunk,data\processed\images\ISIC_vasc_0023.jpg,train
+ISIC_vasc_0024,vasc,confocal,55,male,lower extremity,data\processed\images\ISIC_vasc_0024.jpg,train
+ISIC_vasc_0025,vasc,follow_up,35,female,neck,data\processed\images\ISIC_vasc_0025.jpg,val
+ISIC_vasc_0026,vasc,consensus,65,male,chest,data\processed\images\ISIC_vasc_0026.jpg,train
+ISIC_vasc_0027,vasc,histo,75,female,face,data\processed\images\ISIC_vasc_0027.jpg,train
+ISIC_vasc_0028,vasc,follow_up,35,male,back,data\processed\images\ISIC_vasc_0028.jpg,train
+ISIC_vasc_0029,vasc,follow_up,45,female,lower extremity,data\processed\images\ISIC_vasc_0029.jpg,test
+ISIC_vasc_0030,vasc,follow_up,25,male,trunk,data\processed\images\ISIC_vasc_0030.jpg,train
+ISIC_vasc_0031,vasc,follow_up,25,female,face,data\processed\images\ISIC_vasc_0031.jpg,test
+ISIC_vasc_0032,vasc,confocal,35,male,trunk,data\processed\images\ISIC_vasc_0032.jpg,train
+ISIC_vasc_0033,vasc,histo,45,female,upper extremity,data\processed\images\ISIC_vasc_0033.jpg,val
+ISIC_vasc_0034,vasc,consensus,65,female,trunk,data\processed\images\ISIC_vasc_0034.jpg,train
+ISIC_vasc_0035,vasc,follow_up,45,female,abdomen,data\processed\images\ISIC_vasc_0035.jpg,train
+ISIC_vasc_0036,vasc,consensus,65,male,upper extremity,data\processed\images\ISIC_vasc_0036.jpg,test
+ISIC_vasc_0037,vasc,confocal,55,male,upper extremity,data\processed\images\ISIC_vasc_0037.jpg,train
+ISIC_vasc_0038,vasc,confocal,45,male,face,data\processed\images\ISIC_vasc_0038.jpg,train
+ISIC_vasc_0039,vasc,histo,35,female,abdomen,data\processed\images\ISIC_vasc_0039.jpg,train
+ISIC_vasc_0040,vasc,consensus,25,male,chest,data\processed\images\ISIC_vasc_0040.jpg,train
+ISIC_vasc_0041,vasc,confocal,35,female,upper extremity,data\processed\images\ISIC_vasc_0041.jpg,train
+ISIC_vasc_0042,vasc,confocal,55,male,lower extremity,data\processed\images\ISIC_vasc_0042.jpg,train
+ISIC_vasc_0043,vasc,consensus,35,female,chest,data\processed\images\ISIC_vasc_0043.jpg,train
+ISIC_vasc_0044,vasc,consensus,75,male,neck,data\processed\images\ISIC_vasc_0044.jpg,train
+ISIC_vasc_0045,vasc,consensus,35,female,upper extremity,data\processed\images\ISIC_vasc_0045.jpg,train
+ISIC_vasc_0046,vasc,histo,65,male,trunk,data\processed\images\ISIC_vasc_0046.jpg,test
+ISIC_vasc_0047,vasc,confocal,25,female,chest,data\processed\images\ISIC_vasc_0047.jpg,test
+ISIC_vasc_0048,vasc,histo,65,female,neck,data\processed\images\ISIC_vasc_0048.jpg,train
+ISIC_vasc_0049,vasc,consensus,45,male,neck,data\processed\images\ISIC_vasc_0049.jpg,train
+ISIC_vasc_0050,vasc,histo,65,male,back,data\processed\images\ISIC_vasc_0050.jpg,train
+ISIC_vasc_0051,vasc,consensus,25,female,neck,data\processed\images\ISIC_vasc_0051.jpg,train
+ISIC_vasc_0052,vasc,consensus,55,female,upper extremity,data\processed\images\ISIC_vasc_0052.jpg,test
+ISIC_vasc_0053,vasc,consensus,45,female,upper extremity,data\processed\images\ISIC_vasc_0053.jpg,train
+ISIC_vasc_0054,vasc,consensus,25,male,face,data\processed\images\ISIC_vasc_0054.jpg,val
+ISIC_vasc_0055,vasc,confocal,65,female,back,data\processed\images\ISIC_vasc_0055.jpg,train
+ISIC_vasc_0056,vasc,consensus,45,male,neck,data\processed\images\ISIC_vasc_0056.jpg,train
+ISIC_vasc_0057,vasc,confocal,35,male,upper extremity,data\processed\images\ISIC_vasc_0057.jpg,val
+ISIC_vasc_0058,vasc,histo,25,female,chest,data\processed\images\ISIC_vasc_0058.jpg,train
+ISIC_vasc_0059,vasc,confocal,65,male,chest,data\processed\images\ISIC_vasc_0059.jpg,test
+ISIC_vasc_0060,vasc,confocal,35,female,lower extremity,data\processed\images\ISIC_vasc_0060.jpg,train
+ISIC_vasc_0061,vasc,follow_up,45,female,neck,data\processed\images\ISIC_vasc_0061.jpg,train
+ISIC_vasc_0062,vasc,consensus,65,female,chest,data\processed\images\ISIC_vasc_0062.jpg,val
+ISIC_vasc_0063,vasc,confocal,55,female,trunk,data\processed\images\ISIC_vasc_0063.jpg,test
+ISIC_vasc_0064,vasc,histo,55,female,upper extremity,data\processed\images\ISIC_vasc_0064.jpg,train
+ISIC_vasc_0065,vasc,histo,75,female,chest,data\processed\images\ISIC_vasc_0065.jpg,train
+ISIC_vasc_0066,vasc,histo,65,male,lower extremity,data\processed\images\ISIC_vasc_0066.jpg,val
+ISIC_vasc_0067,vasc,confocal,25,female,face,data\processed\images\ISIC_vasc_0067.jpg,train
+ISIC_vasc_0068,vasc,follow_up,55,male,abdomen,data\processed\images\ISIC_vasc_0068.jpg,val
+ISIC_vasc_0069,vasc,consensus,55,female,trunk,data\processed\images\ISIC_vasc_0069.jpg,train

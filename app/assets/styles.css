@@ -1,0 +1,91 @@
+/* Modern Clinical & Diagnostic Dashboard Theme for DermaScan AI */
+
+:root {
+  --primary-color: #0284c7;
+  --primary-hover: #0369a1;
+  --bg-card: #ffffff;
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  --border-color: #e2e8f0;
+  --badge-low: #10b981;
+  --badge-mod: #f59e0b;
+  --badge-high: #ef4444;
+  --badge-crit: #dc2626;
+}
+
+/* Card styling */
+.diagnostic-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 1.2rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* Medical Disclaimer Banner */
+.disclaimer-banner {
+  background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+  border-left: 5px solid #ef4444;
+  padding: 0.85rem 1.2rem;
+  border-radius: 8px;
+  color: #991b1b;
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+  font-weight: 500;
+}
+
+/* Risk Badges */
+.risk-badge {
+  display: inline-block;
+  padding: 0.35rem 0.85rem;
+  border-radius: 9999px;
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.risk-low {
+  background-color: #10b981;
+}
+
+.risk-moderate {
+  background-color: #f59e0b;
+}
+
+.risk-high {
+  background-color: #ef4444;
+}
+
+.risk-critical {
+  background-color: #dc2626;
+}
+
+/* Device Telemetry Card */
+.telemetry-card {
+  background-color: #0f172a;
+  color: #38bdf8;
+  font-family: 'Consolas', 'Courier New', monospace;
+  border-radius: 10px;
+  padding: 1.2rem;
+  margin-top: 1rem;
+  border: 1px solid #1e293b;
+}
+
+/* Metric Highlight */
+.metric-highlight {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #0369a1;
+  line-height: 1.2;
+}
+
+.metric-label {
+  font-size: 0.85rem;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}

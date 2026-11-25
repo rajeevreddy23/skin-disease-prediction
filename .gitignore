@@ -1,0 +1,22 @@
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Large raw datasets (not demo/models)
+data/raw/skin-cancer-mnist-ham10000.zip
+
+# System & OS
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
+# SQLite dynamic files (keep schema, exclude local lock)
+data/*.db-journal

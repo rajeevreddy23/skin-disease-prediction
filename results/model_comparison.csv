@@ -1,0 +1,4 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1-Score (%),Training Time (s)
+Custom Cnn,81.08,72.44,81.08,75.2,139.4
+Mobilenet V2,100.0,100.0,100.0,100.0,130.9
+Efficientnet B0,100.0,100.0,100.0,100.0,261.0
